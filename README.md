@@ -2,9 +2,7 @@
 <h1 align="center">Hi 👋, I'm Doston</h1>
 <h3 align="center">A passionate backend developer from Uzbekistan</h3>
 
-- 🌱 I’m currently learning **FastAPI**
-
-- 🌱 I’m currently working on [damka.uz](https://damka.uz)
+- 🌱 I’m currently learning **Data Science**
 
 - 📫 How to reach me **dostontv969@gmail.com**
 
